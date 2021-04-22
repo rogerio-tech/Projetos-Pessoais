@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'app1ro'
           slot-name: 'betateste'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_32bc3fdf18a049ad9d0b33684f64a5e5 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fbde82882265487fa4b6752ed5c9c1a3 }}
